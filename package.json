@@ -1,0 +1,23 @@
+{
+  "name": "dices-dande",
+  "version": "1.0.0",
+  "description": "Simple dice thrower with avg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dices-dande"
+  },
+  "keywords": [
+    "dices",
+    "throw",
+    "sides",
+    "launch",
+    "game",
+    "rpg"
+  ],
+  "author": "aiellosimone.ct@gmail.com",
+  "license": "ISC"
+}
